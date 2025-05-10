@@ -1,4 +1,4 @@
-import Background from '@/component/background'
+import Background from '@/component/Background'
 import Foreground from '@/component/Foreground'
 import React from 'react'
 
